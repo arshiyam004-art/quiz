@@ -1,0 +1,24 @@
+/* h1{
+    color: blue;
+}
+
+h1{
+    color: 123px;
+} */
+
+h1{
+    color:green;
+}
+#box1{
+    background-color: rgb(145, 14, 95);
+    height: 100px;
+    width: 100px;
+}
+
+button{
+    background-color: antiquewhite;
+    padding: 10px;
+    border:  2px folid black;
+    border-radius: 5px;
+    margin:10px;
+}
